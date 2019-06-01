@@ -1,79 +1,29 @@
 ---
-title: Introduction
+title: 置いていかないでHugo
 type: docs
 ---
 
-# Acerbo datus maxime
+<div align="center"><img src="./hero.png" alt="top-image"></div>
+<h1 align="center">置いていかないでHugo</h1>
+<h3 align="center"><font color="gray">ウェブの森で迷子になった話。</font></h3>
 
-{{< columns >}}
-## Astris ipse furtiva
+<p align="center">
+  <a href="https://jamcha-aa-hugo.netlify.com/docs/01/"><b>読む</b></a> |
+  <a href="https://jamcha-aa.github.io/About/"><b>作品一覧</b></a> |
+  <a href="https://github.com/jamcha-aa/hugo-netlify"><b>GitHub リポジトリ</b></a>
+</p>
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+<br>  
+<br>  
+画面左上の「≡」で目次の表示/非表示ができます。  
 
-<--->
+<br>  
+この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
-## Suis quot vota
+Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+![cc by-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+[![written with Annin](https://rawcdn.githack.com/jamcha-aa/Annin/58aae5ac65e3d2ebb682957b957d2336a80cabf2/assets/Annin.svg)](https://jamcha-aa.github.io/Annin)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0820d92-bd33-491b-957f-fc7863a2987a/deploy-status)](https://app.netlify.com/sites/jamcha-aa-hugo/deploys)
 
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
-
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
-
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
-
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
-
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
-
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+Powered by [Hugo](https://gohugo.io/) . Theme [Book](https://themes.gohugo.io/hugo-book/) by [Alex Shpak](https://github.com/alex-shpak/) and [kitab](https://themes.gohugo.io/kitab/) by [Darshan Baral](https://www.darshanbaral.com/). (modified by jamcha)
