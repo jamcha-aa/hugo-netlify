@@ -7,3 +7,5 @@ headless: true
 - [02 - あ、config.toml]({{< relref "/docs/02.md" >}})
 - [03 - Googleとにらめっこ]({{< relref "/docs/03.md" >}})
 - [04 - S○SS]({{< relref "/docs/04.md" >}})
+- [05 - それはアラビア語で「本」を意味する]({{< relref "/docs/05.md" >}})
+
